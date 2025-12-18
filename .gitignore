@@ -19,11 +19,11 @@ venv/
 Thumbs.db
 
 # Logs and reports (generated outputs)
-reports/
-logs/
-*.log
-*.out
-*.tmp
+#reports/
+#logs/
+#*.log
+#*.out
+#*.tmp
 
 # Appium / Emulator artifacts
 *.apk
