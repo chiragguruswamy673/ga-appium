@@ -1,0 +1,9 @@
+{
+  "platformName": "Android",
+  "deviceName": "emulator-5554",
+  "automationName": "UiAutomator2",
+  "app": "C:\\Users\\monis\\AndroidStudioProjects\\DemoApp\\app\\build\\outputs\\apk\\debug\\app-debug.apk",
+  "appPackage": "com.example.demoapp",
+  "appActivity": ".MainActivity",
+  "noReset": true
+}
