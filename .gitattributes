@@ -1,2 +1,7 @@
+# Tell GitHub Linguist to ignore generated reports and dashboards
 reports/* linguist-vendored
 dashboard/* linguist-vendored
+logs/* linguist-vendored
+
+# Explicitly mark Python files as the primary language
+*.py linguist-language=Python
